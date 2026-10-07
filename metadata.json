@@ -1,0 +1,8 @@
+{
+  "name": "YESMIN AI - Companion & Jarvis Assistant",
+  "description": "Next-generation AI Companion & Personal Jarvis Assistant with customizable name, Live Voice, coding agent, persistent memory, and multi-tool orchestration.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
